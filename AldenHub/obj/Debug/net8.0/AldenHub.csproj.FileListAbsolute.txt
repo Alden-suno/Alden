@@ -1,0 +1,9 @@
+C:\Users\maseglo.com\Documents\vs code\Alden.Web\AldenHub\obj\Debug\net8.0\AldenHub.csproj.AssemblyReference.cache
+C:\Users\maseglo.com\Documents\vs code\Alden.Web\AldenHub\obj\Debug\net8.0\AldenHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maseglo.com\Documents\vs code\Alden.Web\AldenHub\obj\Debug\net8.0\AldenHub.AssemblyInfoInputs.cache
+C:\Users\maseglo.com\Documents\vs code\Alden.Web\AldenHub\obj\Debug\net8.0\AldenHub.AssemblyInfo.cs
+C:\Users\maseglo.com\Documents\vs code\Alden.Web\AldenHub\obj\Debug\net8.0\AldenHub.csproj.CoreCompileInputs.cache
+C:\Users\maseglo.com\Documents\vs code\Alden.Web\AldenHub\obj\Debug\net8.0\AldenHub.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maseglo.com\Documents\vs code\Alden.Web\AldenHub\obj\Debug\net8.0\AldenHub.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maseglo.com\Documents\vs code\Alden.Web\AldenHub\obj\Debug\net8.0\AldenHub.RazorAssemblyInfo.cache
+C:\Users\maseglo.com\Documents\vs code\Alden.Web\AldenHub\obj\Debug\net8.0\AldenHub.RazorAssemblyInfo.cs
